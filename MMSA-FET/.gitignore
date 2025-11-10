@@ -1,0 +1,11 @@
+.vscode
+assets
+tmp
+test*
+*.egg-info
+dist
+*.pyc
+__pycache__
+exts
+tmp.csv
+build

@@ -1,0 +1,1 @@
+recursive-include src/MSA_FET/example_configs *.json
